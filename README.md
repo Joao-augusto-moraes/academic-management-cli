@@ -1,5 +1,7 @@
 # Sistema de Gestão Acadêmica (CRUD em Python)
 
+> 🎓 **Projeto acadêmico** · Análise e Desenvolvimento de Sistemas, PUCPR · 2024, revisado em 2026
+
 Sistema de linha de comando para cadastrar **estudantes, professores, disciplinas, turmas e matrículas**, com os dados salvos em arquivos JSON.
 
 O destaque do projeto é a arquitetura: em vez de escrever um CRUD para cada entidade, criei uma classe `Repositorio` genérica. Para adicionar uma entidade nova, basta descrever os campos dela numa configuração, sem repetir código.
